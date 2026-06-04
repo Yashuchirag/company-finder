@@ -68,3 +68,17 @@ test('upsertCompany does not mutate original store', () => {
   assert.equal(initial.length, 0);
   assert.equal(result.length, 1);
 });
+
+test('upsertCompany does not mutate existing entry when adding country', () => {
+  const initial = [{
+    slug: 'stripe', company: 'Stripe', provider: 'greenhouse',
+    careers_url: 'https://stripe.com/jobs',
+    countries: ['Netherlands'], source: 'discovered', discovered_at: '2026-06-03',
+  }];
+  const originalCountries = initial[0].countries;
+  upsertCompany(initial, {
+    slug: 'stripe', company: 'Stripe', provider: 'greenhouse',
+    careers_url: 'https://stripe.com/jobs', country: 'United Kingdom', source: 'discovered',
+  });
+  assert.deepEqual(originalCountries, ['Netherlands']);
+});
