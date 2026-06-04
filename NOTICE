@@ -1,0 +1,26 @@
+Company Finder
+Copyright (c) 2026 Chirag Chandrashekar <chiragchandrashekar@gmail.com>
+
+This project is built on career-ops (https://github.com/santifer/career-ops),
+Copyright (c) 2026 Santiago Fernández de Valderrama, licensed under the MIT License.
+
+The following files are original work by Chirag Chandrashekar:
+  store.mjs
+  merge-portals.mjs
+  discover.mjs
+  config/countries.yml
+  config/portals.manual.yml
+  .claude/skills/company-finder.md
+  tests/store.test.mjs
+  tests/merge-portals.test.mjs
+  tests/discover.test.mjs
+  docs/superpowers/specs/2026-06-03-company-finder-design.md
+  docs/superpowers/plans/2026-06-03-company-finder.md
+
+All remaining files originate from career-ops and are used unchanged under the
+terms of the MIT License. The "career-ops" name and brand are subject to the
+career-ops Trademark Policy (see TRADEMARK.md). This project is not affiliated
+with or endorsed by the career-ops project.
+
+Both the original career-ops code and the Company Finder additions are made
+available under the MIT License. See LICENSE for the full license text.
