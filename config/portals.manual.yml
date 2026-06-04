@@ -1,0 +1,14 @@
+# config/portals.manual.yml
+# Hand-curated companies. Uses career-ops portals.yml tracked_companies format.
+# These are merged with auto-discovered companies at scan time.
+# Manual entries take precedence over discovered entries with the same slug.
+#
+# To add a company here instead of via /company-finder add:
+#
+# tracked_companies:
+#   - name: "Adyen"
+#     careers_url: "https://www.adyen.com/careers"
+#     provider: "greenhouse"
+#     slug: "adyen"
+
+tracked_companies: []

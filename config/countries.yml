@@ -1,0 +1,48 @@
+# config/countries.yml
+# Add a new entry here to target an additional country. No code changes needed.
+# allow_keywords: fed into location_filter.allow in the generated portals.yml
+# search_terms: used by the /company-finder skill's WebSearch discovery queries
+
+countries:
+  - name: Netherlands
+    allow_keywords:
+      - "Netherlands"
+      - "Amsterdam"
+      - "Rotterdam"
+      - "Remote NL"
+    search_terms:
+      - "Netherlands"
+      - "Amsterdam"
+
+  - name: United Kingdom
+    allow_keywords:
+      - "United Kingdom"
+      - "UK"
+      - "London"
+      - "Manchester"
+      - "Remote UK"
+    search_terms:
+      - "UK"
+      - "London"
+      - "United Kingdom"
+
+  - name: Dubai
+    allow_keywords:
+      - "Dubai"
+      - "UAE"
+      - "Remote UAE"
+    search_terms:
+      - "Dubai"
+      - "UAE"
+
+  - name: India
+    allow_keywords:
+      - "India"
+      - "Bangalore"
+      - "Bengaluru"
+      - "Mumbai"
+      - "Hyderabad"
+      - "Remote India"
+    search_terms:
+      - "India"
+      - "Bangalore"
