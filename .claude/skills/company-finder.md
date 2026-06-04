@@ -11,7 +11,12 @@ Full discovery and scan pipeline. Zero LLM tokens until pipeline is called.
 
 ### Step 1 — Discover new companies via WebSearch
 
-Read `config/countries.yml` to get countries and their `search_terms`.
+Read `config/countries.yml` to get countries and their `search_terms`. Each entry looks like:
+```yaml
+- name: Netherlands
+  search_terms: ["Netherlands", "Amsterdam"]
+  allow_keywords: ["Netherlands", "Amsterdam", "Rotterdam", "Remote NL"]
+```
 
 For each country, run WebSearch queries across the three major ATS job board indexes.
 Use these query templates (substitute country search_term and role keyword):
