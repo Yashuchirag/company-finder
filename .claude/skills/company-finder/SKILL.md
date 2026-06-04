@@ -1,3 +1,11 @@
+---
+name: company-finder
+description: Country-aware Software Engineering job scanner for Netherlands, UK, Dubai, and India
+user-invocable: true
+argument-hint: "[scan | scan --discover-only | pipeline <url> | pipeline --batch | add --company <slug> --provider <provider> --country <country>]"
+license: MIT
+---
+
 # /company-finder — Country-Aware Job Scanner
 
 Skill for scanning Software Engineering jobs across Netherlands, UK, Dubai, and India.

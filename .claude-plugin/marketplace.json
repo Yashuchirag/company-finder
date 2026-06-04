@@ -1,17 +1,17 @@
 {
-  "name": "career-ops",
+  "name": "company-finder",
   "metadata": {
-    "description": "AI job search command center — evaluate offers, generate CVs, scan portals, track applications"
+    "description": "Country-aware Software Engineering job scanner for Netherlands, UK, Dubai, and India"
   },
   "owner": {
-    "name": "santifer",
-    "url": "https://santifer.io"
+    "name": "Chirag Chandrashekar",
+    "url": "https://github.com/Yashuchirag"
   },
   "plugins": [
     {
-      "name": "career-ops",
+      "name": "company-finder",
       "source": "./",
-      "description": "AI job search pipeline — evaluate offers, generate CVs, scan portals, track applications",
+      "description": "Country-aware Software Engineering job scanner — discover companies, scan ATS boards, evaluate roles",
       "category": "productivity"
     }
   ]

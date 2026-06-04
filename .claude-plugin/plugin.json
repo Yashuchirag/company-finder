@@ -1,10 +1,10 @@
 {
-  "name": "career-ops",
-  "version": "1.6.0",
-  "description": "AI job search command center — evaluate offers, generate CVs, scan portals, track applications",
+  "name": "company-finder",
+  "version": "1.0.0",
+  "description": "Country-aware Software Engineering job scanner for Netherlands, UK, Dubai, and India",
   "author": {
-    "name": "santifer",
-    "url": "https://santifer.io"
+    "name": "Chirag Chandrashekar",
+    "url": "https://github.com/Yashuchirag"
   },
   "skills": true,
   "permissions": {
@@ -12,6 +12,9 @@
       "Bash(node:*)",
       "WebFetch(domain:boards-api.greenhouse.io)",
       "WebFetch(domain:jobs.ashbyhq.com)",
+      "WebFetch(domain:api.lever.co)",
+      "WebFetch(domain:jobs.lever.co)",
+      "WebFetch(domain:job-boards.greenhouse.io)",
       "WebSearch"
     ]
   }

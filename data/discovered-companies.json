@@ -1,1 +1,708 @@
-[]
+[
+  {
+    "slug": "bitvavo",
+    "company": "Bitvavo",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/bitvavo",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "airwallex",
+    "company": "Airwallex",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/airwallex",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "hackerone",
+    "company": "HackerOne",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/hackerone",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "n8n",
+    "company": "n8n",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/n8n",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "vanta",
+    "company": "Vanta",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/vanta",
+    "countries": [
+      "Netherlands",
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "eye-security",
+    "company": "Eye Security",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/eye-security",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "justworks",
+    "company": "Justworks",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/justworks",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "hudl",
+    "company": "Hudl",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/hudl",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "reddit",
+    "company": "Reddit",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/reddit",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "bellroy",
+    "company": "Bellroy",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/bellroy",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "doitintl",
+    "company": "DoiT",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/doitintl",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "dataiku",
+    "company": "Dataiku",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/dataiku",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "nebius",
+    "company": "Nebius",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/nebius",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "insify",
+    "company": "Insify",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/insify",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "recast-software",
+    "company": "Recast Software",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/recast-software",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "everbridge",
+    "company": "Everbridge",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/everbridge",
+    "countries": [
+      "Netherlands"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "flowengineering",
+    "company": "Flow Engineering",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/flowengineering",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "multiverse",
+    "company": "Multiverse",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/multiverse",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "talos-trading",
+    "company": "Talos",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/talos-trading",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "docker",
+    "company": "Docker",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/docker",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "hyperexponential",
+    "company": "hyperexponential",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/hyperexponential",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "Profound",
+    "company": "Profound",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/Profound",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "getscope",
+    "company": "Scope AI",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/getscope",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "xai",
+    "company": "xAI",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/xai",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "figma",
+    "company": "Figma",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/figma",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "anthropic",
+    "company": "Anthropic",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/anthropic",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "creativex",
+    "company": "CreativeX",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/creativex",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "isomorphiclabs",
+    "company": "Isomorphic Labs",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/isomorphiclabs",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "deepmind",
+    "company": "DeepMind",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/deepmind",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "contentful",
+    "company": "Contentful",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/contentful",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "cloudflare",
+    "company": "Cloudflare",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/cloudflare",
+    "countries": [
+      "United Kingdom",
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "palantir",
+    "company": "Palantir",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/palantir",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "zopa",
+    "company": "Zopa",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/zopa",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "voleon",
+    "company": "The Voleon Group",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/voleon",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "mistral",
+    "company": "Mistral AI",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/mistral",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "ansatzcapital",
+    "company": "Ansatz Capital",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/ansatzcapital",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "teleport",
+    "company": "Teleport",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/teleport",
+    "countries": [
+      "United Kingdom"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "syndica",
+    "company": "Syndica",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/syndica",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "leantech",
+    "company": "Lean Technologies",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/leantech",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "hopper",
+    "company": "Hopper",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/hopper",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "sully-ai",
+    "company": "Sully.ai",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/sully-ai",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "cobblestoneenergy4",
+    "company": "Cobblestone Energy",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/cobblestoneenergy4",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "careem",
+    "company": "Careem",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/careem",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "propertyfinder",
+    "company": "Property Finder",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/propertyfinder",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "addepar1",
+    "company": "Addepar",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/addepar1",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "canonicaljobs",
+    "company": "Canonical",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/canonicaljobs",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "udacity",
+    "company": "Udacity",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/udacity",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "Washmen",
+    "company": "Washmen",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/Washmen",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "binance",
+    "company": "Binance",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/binance",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "weride",
+    "company": "WeRide",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/weride",
+    "countries": [
+      "Dubai"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "Almabase",
+    "company": "Almabase",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/Almabase",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "cartesia",
+    "company": "Cartesia",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/cartesia",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "junipersquare",
+    "company": "Juniper Square",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/junipersquare",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "ema",
+    "company": "Ema",
+    "provider": "ashby",
+    "careers_url": "https://jobs.ashbyhq.com/ema",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "smartsheet",
+    "company": "Smartsheet",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/smartsheet",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "zscaler",
+    "company": "Zscaler",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/zscaler",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "fluxon",
+    "company": "Fluxon",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/fluxon",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "conga",
+    "company": "Conga",
+    "provider": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/conga",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "revefi",
+    "company": "Revefi",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/revefi",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "zimperium",
+    "company": "Zimperium",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/zimperium",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "sysdig",
+    "company": "Sysdig",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/sysdig",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "jumpcloud",
+    "company": "JumpCloud",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/jumpcloud",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "smarsh",
+    "company": "Smarsh",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/smarsh",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  },
+  {
+    "slug": "kong",
+    "company": "Kong",
+    "provider": "lever",
+    "careers_url": "https://jobs.lever.co/kong",
+    "countries": [
+      "India"
+    ],
+    "source": "discovered",
+    "discovered_at": "2026-06-04"
+  }
+]
