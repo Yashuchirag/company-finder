@@ -48,3 +48,6 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+
+# Company Finder — generated at scan time, not committed
+data/portals-merged.yml
