@@ -78,6 +78,7 @@ countries:
       - "Bangalore"
       - "Bengaluru"
       - "Mumbai"
+      - "Hyderabad"
       - "Remote India"
     search_terms:
       - "India"
